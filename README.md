@@ -20,8 +20,6 @@ A machine learning web application that predicts essential polymer properties us
 ---
 
 ## 🖼️ Demo
-
-*(Add a screenshot or GIF here if you have a running demo)*
 ![image](https://github.com/user-attachments/assets/d6ba6146-761f-46a3-bdb2-64710d8d3f12)
 ![image](https://github.com/user-attachments/assets/840f752a-a462-4ebc-83e9-a5c9c554f448)
 
